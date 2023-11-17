@@ -1,0 +1,57 @@
+export const products = [
+  {
+    id: 1,
+    name: "SAMSUNG GALAXY S23 ULTRA",
+    category: "Ponsel",
+    price: 10000000,
+    image: "/images/products/product1.jpeg",
+    isCart: false,
+    description: "OS	Android 13, One UI 5.1Chipset	Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm)CPU	Octa-core (1x3.36 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510)GPU	Adreno 740",
+  },
+  {
+    id: 2,
+    name: "Iphone 11",
+    category: "Ponsel",
+    price: 15000000,
+    image: "/images/products/product2.jpeg",
+    isCart: false,
+    description:  "	OS	iOS 13, upgradable to iOS 17.0.3Chipset	Apple A13 Bionic (7 nm+)CPU	Hexa-core (2x2.65 GHz Lightning + 4x1.8 GHz Thunder)GPU	Apple GPU (4-core graphics)",
+  },
+  {
+    id: 3,
+    name: "RASUS ExpertBook B9 OLED",
+    category: "Laptop",
+    price: 2000000,
+    image: "/images/products/product3.jpeg",
+    isCart: false,
+    description:"The worlds lightest 14” OLED business laptop, weighing a mere 990gUp to 13th gen Intel® Core™ processor with vPro® supportSustainable across the product lifecycle",
+  },
+  {
+    id: 4,
+    name: "ASUS ExpertBook B5 OLED",
+    category: "Laptop",
+    price: 16000000,
+    image: "/images/products/product4.jpeg",
+    isCart: false,
+    description: "Up to 13th gen Intel® Core™ i7 vPro processorWorlds lightest 16” business laptop from 1.4kgStunning OLED display for immersive work experience with 16:10 aspect ratio",
+  },
+  {
+    id: 5,
+    name: "Samsung Galaxy Tab S6 Lite ",
+    category: "Tablet",
+    price: 10000000,
+    image: "/images/products/product5.jpeg",
+    isCart: false,
+    description: "OS Version	Android 12 4G Network	LTE SIM Slots	1 slot(s) Screen Size	10.4 inch",
+  },
+
+  {
+    id: 6,
+    name: "Samsung Galaxy Tab S8",
+    category: "Tablet",
+    price: 10000000,
+    image: "/images/products/product6.jpeg",
+    isCart: false,
+    description: "OS Version	Android 12, One UI 4.1 4G Network	LTE SIM Slots	2 slot(s) Screen Size	11 inch",
+  }
+];
